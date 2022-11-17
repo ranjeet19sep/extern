@@ -12,3 +12,8 @@ void inc()
 	num++;
 	return;
 }
+
+void add()
+{
+	num=10+num;
+}
