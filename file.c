@@ -15,5 +15,5 @@ void inc()
 
 void add()
 {
-	num=10+num;
+	num=5+num;
 }
