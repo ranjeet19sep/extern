@@ -17,3 +17,4 @@ void add()
 {
 	num=5+num;
 }
+//Bhai kamaal karte ho
